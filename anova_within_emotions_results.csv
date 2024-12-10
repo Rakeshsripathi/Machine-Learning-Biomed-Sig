@@ -1,7 +1,0 @@
-Emotion,Feature_Group,F-statistic,p-value
-Anger,MFCC Features,62922.05046818532,0.0
-Disgust,MFCC Features,87624.26938220189,0.0
-Fear,MFCC Features,62222.040920505475,0.0
-Happy,MFCC Features,83327.98769613341,0.0
-Neutral,MFCC Features,119793.10554937444,0.0
-Sad,MFCC Features,,
